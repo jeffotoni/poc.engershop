@@ -1,0 +1,13 @@
+vendor
+client-cert.pem
+client-key.pem
+server-ca.pem
+.env
+global.env
+docker.run.sh
+deployment.server.yaml
+deployment.service.export.server.yaml
+projeto.eng1-e7634d6167ee.json
+rds-certs2
+projeto.eng1-e7634d6167ee.json
+infra-admin-204520-fdc3c8c22f6f.json
